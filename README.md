@@ -1,2 +1,2 @@
-# python-programs
+# java-programs
 intermediate programs
